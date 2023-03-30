@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c639aa0e8ab5eb34c8b2af64114662ff, type: 3}
+  m_Name: halfFinal
+  m_EditorClassIdentifier: 
+  ScoreboardSprite: {fileID: 21300000, guid: e4328be38b771a047af70cebfc0ff097, type: 3}
+  ManSprite: {fileID: 21300000, guid: 0b62aa66ba37da946ae4f02391e4952e, type: 3}
+  State: 1
+  Points: 7.15
+  Audio: {fileID: 11400000, guid: 0a28d2789c81bd54392e0d54008247db, type: 2}

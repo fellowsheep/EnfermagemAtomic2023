@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c639aa0e8ab5eb34c8b2af64114662ff, type: 3}
+  m_Name: DeathChoice
+  m_EditorClassIdentifier: 
+  ScoreboardSprite: {fileID: 21300000, guid: 4ee06b3eb7af80142ad6eba5af70151c, type: 3}
+  ManSprite: {fileID: 21300000, guid: 13482db5c462e6841a8eaf6eaaeed506, type: 3}
+  PopUpSprite: {fileID: 0}
+  State: -1
+  Points: 0
+  Audio: {fileID: 11400000, guid: 63a79f45211a333469ce1865bdba9380, type: 2}
